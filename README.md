@@ -6,7 +6,7 @@ A simple and responsive weather application that shows real-time weather updates
 👉  https://weather-app-738.netlify.app/
 
 ## 📸 Screenshot
-   screenshots/weather-home.jpeg
+   ./screenshots/weather-home.jpeg
 
 ## 🚀 Features
 - Search any city to get current weather data instantly
